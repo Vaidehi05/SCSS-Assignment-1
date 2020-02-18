@@ -1,1 +1,0 @@
-# SCSS-Assignment-1
